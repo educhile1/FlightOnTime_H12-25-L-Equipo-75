@@ -43,13 +43,13 @@ Somos un equipo multidisciplinario de 10 talentos uniendo fuerzas en la simulaci
 
 ## 🚀 Descripción del Proyecto
 
-**Flight On Time** es una herramienta diseñada para mitigar la incertidumbre en la aviación civil. Los retrasos en vuelos generan pérdidas millonarias a las aerolíneas y frustración en los pasajeros.
+**Flight On Time** es una herramienta diseñada para mitigar la incertidumbre en la aviación civil. Los retrasos en vuelos generan pérdidas millonarias a las aerolíneas y frustración en los pasajeros, perdidas para las empresas de seguro y tarjetas de crédito por concepto de uso de polizas de retraso.
 
 Nuestra solución utiliza datos históricos y algoritmos de **Machine Learning** para estimar la probabilidad de que un vuelo específico sufra retrasos, permitiendo:
 * **A los pasajeros:** Recibir alertas preventivas.
 * **A las aerolíneas:** Optimizar la logística y reducir costos operativos.
 * **A los aeropuertos:** Gestionar mejor la infraestructura en tiempo real.
-* * **A las empresas de seguro y/o tarjetas de créditos:** Poder calcular la probabilidad de ejecución de una poliza por retraso en vuelo en tiempo real.
+* **A las empresas de seguro y/o tarjetas de créditos:** Poder calcular la probabilidad de ejecución de una poliza por retraso en vuelo en tiempo real.
 
 ### Objetivo del MVP
 Desarrollar un sistema capaz de recibir los datos de un vuelo futuro y clasificarlo binariamente como **Puntual** o **Retrasado**, entregando además un porcentaje de probabilidad.
