@@ -84,3 +84,42 @@ graph LR
     style A fill:#f9f,stroke:#333,stroke-width:2px
     style C fill:#bbf,stroke:#333,stroke-width:2px
     style D fill:#dfd,stroke:#333,stroke-width:2px
+
+
+---
+
+## 🛠 Stack Tecnológico
+
+### 🧠 Data Science & AI
+* **Lenguaje:** Python
+* **Librerías:** Pandas (Limpieza de datos), Scikit-learn (Modelado).
+* **Entregable:** Modelo serializado (`joblib`/`pickle`) y Notebooks de EDA.
+* **Scope:** Clasificación binaria (0 = Puntual, 1 = Retrasado).
+
+### ⚙️ Backend
+* **Lenguaje:** Java 17+
+* **Framework:** Spring Boot.
+* **Comunicación:** API RESTful.
+* **Funciones:** Validación de datos, integración con el modelo ML, manejo de errores estandarizados.
+
+### 💻 Frontend
+* **Tecnología:** HTML5 / CSS3 / JavaScript (React/Angular según aplique).
+* **Conexión:** Consumo de endpoint `/predict` para visualización de resultados.
+
+---
+
+## 🔌 Contrato de API
+
+El núcleo de la integración entre nuestros servicios se basa en el siguiente contrato JSON para el endpoint `/predict`.
+
+**Endpoint:** `POST /predict`
+
+### Ejemplo de Petición (Request)
+```json
+{
+  "aerolinea": "AZ",
+  "origen": "GIG",
+  "destino": "GRU",
+  "fecha_partida": "2025-11-10T14:30:00",
+  "distancia_km": 350
+}
