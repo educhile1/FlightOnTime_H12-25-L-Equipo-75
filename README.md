@@ -82,7 +82,7 @@ graph LR
     B -- UI Alert --> A
     
     style A fill:#00f,stroke:#333,stroke-width:2px
-    style C fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#00f,stroke:#333,stroke-width:2px
     style D fill:#dfd,stroke:#333,stroke-width:2px
 ```
 
