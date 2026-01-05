@@ -124,3 +124,13 @@ El núcleo de la integración entre nuestros servicios se basa en el siguiente c
   "fecha_partida": "2025-11-10T14:30:00",
   "distancia_km": 350
 }
+
+### Ejemplo de Respuesta (Response)
+```json
+{
+  "prevision": "Retrasado",
+  "probabilidad": 0.78
+}
+
+---
+Proyecto desarrollado para el Hackathon de NoCountry - 2025
