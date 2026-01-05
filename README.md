@@ -81,7 +81,7 @@ graph LR
     C -- JSON Response --> B
     B -- UI Alert --> A
     
-    style A fill:#00f,stroke:#333,stroke-width:2px
+    style A fill:#80f,stroke:#333,stroke-width:2px
     style B fill:#00f,stroke:#333,stroke-width:2px
     style C fill:#00f,stroke:#333,stroke-width:2px
     style D fill:#dfd,stroke:#333,stroke-width:2px
