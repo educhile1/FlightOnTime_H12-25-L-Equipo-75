@@ -49,6 +49,7 @@ Nuestra solución utiliza datos históricos y algoritmos de **Machine Learning**
 * **A los pasajeros:** Recibir alertas preventivas.
 * **A las aerolíneas:** Optimizar la logística y reducir costos operativos.
 * **A los aeropuertos:** Gestionar mejor la infraestructura en tiempo real.
+* * **A las empresas de seguro y/o tarjetas de créditos:** Poder calcular la probabilidad de ejecución de una poliza por retraso en vuelo en tiempo real.
 
 ### Objetivo del MVP
 Desarrollar un sistema capaz de recibir los datos de un vuelo futuro y clasificarlo binariamente como **Puntual** o **Retrasado**, entregando además un porcentaje de probabilidad.
