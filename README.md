@@ -34,7 +34,6 @@ Somos un equipo multidisciplinario de 10 talentos uniendo fuerzas en la simulaci
 | Backend | [Nombre del Participante] | [Link] |
 | Backend | [Nombre del Participante] | [Link] |
 | Backend | [Nombre del Participante] | [Link] |
-
 | **Data Science** | **JAG-91** (Lead DS) | [@JAG-91](https://github.com/JAG-91) |
 | Data Science | [Nombre del Participante] | [Link] |
 | Data Science | [Nombre del Participante] | [Link] |
