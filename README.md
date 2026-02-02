@@ -27,16 +27,12 @@ Somos un equipo multidisciplinario de 10 talentos uniendo fuerzas en la simulaci
 | Rol | Miembro del Equipo | Github / Contacto |
 | :--- | :--- | :--- |
 | **Frontend** | **Educhile1** (Lead FE) | [@educhile1](https://github.com/educhile1) |
-| Frontend | [Nombre del Participante] | [Link] |
-| Frontend | [Nombre del Participante] | [Link] |
 | **Backend** | **Malvadoyael** (Lead BE) | [@Malvadoyael](https://github.com/Malvadoyael) |
 | **Backend** | **Educhile1** (Lead BE) | [@educhile1](https://github.com/educhile1) |
-| Backend | [Nombre del Participante] | [Link] |
-| Backend | [Nombre del Participante] | [Link] |
-| Backend | [Nombre del Participante] | [Link] |
 | **Data Science** | **JAG-91** (Lead DS) | [@JAG-91](https://github.com/JAG-91) |
-| Data Science | [Nombre del Participante] | [Link] |
-| Data Science | [Nombre del Participante] | [Link] |
+| **Data Science** | **franksilva1** | [franksilva1](https://github.com/franksilva1)] |
+| **Data Science** | **Educhile1**  | [@educhile1](https://github.com/educhile1) |
+
 
 
 ---
